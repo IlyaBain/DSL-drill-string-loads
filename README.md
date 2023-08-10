@@ -1,2 +1,2 @@
 # DSL-drill-string-loads
-Interactive application for finding the load of the drill string at any point
+Интерактивное приложение для определения нагрузки на бурильную колонну в любой точке при различных операциях
